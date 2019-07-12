@@ -1,6 +1,6 @@
-# odyssey-demo
+# Demo Scripts
 
-Demo code for blockchain odyssey demo
+Code for blockchain odyssey script
 
 ## Usage
 
