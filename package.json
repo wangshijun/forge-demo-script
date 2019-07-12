@@ -10,6 +10,7 @@
   "author": "wangshijun <wangshijun2010@gmail.com> (http://github.com/wangshijun)",
   "license": "MIT",
   "dependencies": {
-    "@arcblock/forge-sdk": "^0.32.1"
+    "@arcblock/forge-sdk": "^0.32.1",
+    "base64-url": "^2.2.2"
   }
 }
